@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏎️ 1D RGB LED Strip Racing
+# 🏎️ 1D-LED Strip Racing
 
 **A Fast-Paced DIY Arduino Racing Game**
 
