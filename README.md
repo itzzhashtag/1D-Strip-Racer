@@ -173,7 +173,7 @@ This project teaches:
 ## 📸 Simulation
 
 <img width="650" height="639" alt="image" src="https://github.com/user-attachments/assets/7d2418cc-b52e-4a82-a470-63cb51d7a33a" />
-
+.
 <img width="608" height="672" alt="image" src="https://github.com/user-attachments/assets/45b37150-da97-489d-8c1d-0b6434502876" />
 
 ---
@@ -181,6 +181,7 @@ This project teaches:
 ## 📸 Wiring & Schematic
 
 <img width="1108" height="881" alt="image" src="https://github.com/user-attachments/assets/540da65a-7080-4bd1-8a81-214ae0aeac00" />
+.
 <img width="1263" height="901" alt="image" src="https://github.com/user-attachments/assets/92b5516e-e39e-4106-977c-ae862197df55" />
 
 
